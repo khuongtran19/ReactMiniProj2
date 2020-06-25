@@ -1,3 +1,5 @@
+This project for learning purpose. By using **window.navigation.geolocation** method to get current location and show current season, either Summer or Winter.\
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
